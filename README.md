@@ -17,7 +17,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
    <div align="center">
   <a href="https://www.instagram.com/seunleekr/">
-    <img src="[https://img.shields.io/badge/instagram?style=for-the-badge&logo=instagrom&logoColor=#E4405F](https://img.shields.io/badge/instagram-#E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=#E4405F)" />&nbsp
+    ![instagram](https://img.shields.io/badge/instagram-#E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=#E4405F)
   </a>
   <a href="mailto:mooahromy@gmail.com">
     <img
