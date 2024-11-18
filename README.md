@@ -16,9 +16,11 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
    <div align="center">
-  <a href="https://www.instagram.com/seunleekr/">
-    src="https://img.shields.io/badge/instagram-#E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=#E4405F"/>
-  </a>
+  <a href="https://instagram.com/seunleekr">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/seunleekr/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
   <a href="mailto:mooahromy@gmail.com">
     <img
       src="https://img.shields.io/badge/mooahromy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
