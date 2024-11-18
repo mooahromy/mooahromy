@@ -16,12 +16,15 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
    <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  <a href="https://www.instagram.com/seunleekr/">
+    <img src="https://img.shields.io/badge/instagram?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:mooahromy@gmail.com">
     <img
       src="https://img.shields.io/badge/mooahromy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+
+      ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
   </a>
 </div>
     
