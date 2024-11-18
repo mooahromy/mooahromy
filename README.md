@@ -23,7 +23,8 @@
 </a>
   <a href="mailto:mooahromy@gmail.com">
     <img
-      src="https://img.shields.io/badge/mooahromy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/mooahromy@gmail.com-D14836?
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
 </div>
     
