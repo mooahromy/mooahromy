@@ -21,9 +21,8 @@
   <a href="mailto:mooahromy@gmail.com">
     <img
       src="https://img.shields.io/badge/mooahromy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-  
-  <br>
+  </a>  
+
   <p align="center">
     <img width="607" alt="스크린샷 2024-11-19 오후 10 55 28" src="https://github.com/user-attachments/assets/da7564f4-ab97-46f2-8f5e-62656f0a31cf">
 </p>
